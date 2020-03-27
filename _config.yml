@@ -1,18 +1,18 @@
 title: MIP School
-url: 'https://long-pig.cloudvent.net'
+url: "https://mip.tsvayer.com"
 baseurl: null
 google_analytics_key: null
 show_full_navigation: true
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: MIP School helper site
 author:
-  name: null
-  email: null
+  name: Vitaliy Tsvayer
+  email: tsvayer@gmail.com
   twitter: null
 social:
   name: Edition Template
   links:
-    - 'https://github.com/CloudCannon/edition-jekyll-template'
+    - "https://github.com/CloudCannon/edition-jekyll-template"
 timezone: Etc/UTC
 permalink: pretty
 plugins:
@@ -27,15 +27,15 @@ exclude:
 collections:
   docs:
     title: Documentation
-    permalink: '/:path/'
+    permalink: "/:path/"
     output: true
 defaults:
   - scope:
-      path: ''
+      path: ""
     values:
       layout: default
   - scope:
-      path: ''
+      path: ""
       type: docs
     values:
       seo:
@@ -48,7 +48,7 @@ defaults:
           width: 800
           height: 2000
   - scope:
-      path: ''
+      path: ""
       type: posts
     values:
       _comments:
