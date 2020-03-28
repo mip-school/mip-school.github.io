@@ -1,8 +1,8 @@
-[aleksey]: https://us04web.zoom.us/j/5381302828
+[aleksey]: https://us04web.zoom.us/j/5381302828 "Алексей Юрьевич"
 [tatyana]: https://us04web.zoom.us/j/2530698589 "Татьяна Осмовна"
-[madina]: https://us04web.zoom.us/j/5066749260
-[yulya]: https://us04web.zoom.us/j/4224514513
-[marina]: https://us04web.zoom.us/j/5457773260
-[galina]: https://us04web.zoom.us/j/6077895570
-[elena]: https://us04web.zoom.us/j/8514235711
-[evgeniya]: https://us04web.zoom.us/j/6145170939
+[madina]: https://us04web.zoom.us/j/5066749260 "Мадина Гасановна"
+[yulya]: https://us04web.zoom.us/j/4224514513 "Юлия Владимировна"
+[marina]: https://us04web.zoom.us/j/5457773260 "Марина Николаевна"
+[galina]: https://us04web.zoom.us/j/6077895570 "Галина Юрьевна"
+[elena]: https://us04web.zoom.us/j/8514235711 "Елена Александровна"
+[evgeniya]: https://us04web.zoom.us/j/6145170939 "Евгения Геннадьевна"
