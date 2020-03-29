@@ -6,3 +6,5 @@
 [galina]: https://us04web.zoom.us/j/6077895570 "Галина Юрьевна"
 [elena]: https://us04web.zoom.us/j/8514235711 "Елена Александровна"
 [evgeniya]: https://us04web.zoom.us/j/6145170939 "Евгения Геннадьевна"
+[irina]: https://us04web.zoom.us/j/8445588135 "Ирина Анатольевна"
+[evgeniyab]: https://us04web.zoom.us/j/4928259439 "Евгения Борисовна"
