@@ -8,6 +8,6 @@
 [evgeniya]: https://us04web.zoom.us/j/6145170939 "Евгения Геннадьевна"
 [irina]: https://us04web.zoom.us/j/8445588135 "Ирина Анатольевна"
 [evgeniyab]: https://us04web.zoom.us/j/4928259439 "Евгения Борисовна"
-[music]: https://www.youtube.com/watch?v=7jw4kD7McdI&list=PLe65ELNlEbUs9l5EoTSImOFJ24D4DdRRd
+[music]: https://www.youtube.com/watch?v=vZ_fOhgr0fs
 [sport]: https://youtu.be/Nh98By0Lb_Q?t=29
-[draw]: https://www.youtube.com/watch?v=GFMgVNFIPMk
+[draw]: https://www.youtube.com/watch?v=eXGxrOu2Y4o
